@@ -4,7 +4,7 @@
 
 运行环境： VS2017 + OPENCV 3.4.1
 ## 实验结果
-见results。
+![Image text](https://github.com/JunFenngZhi/ORB-image_stitching/blob/master/results/result1_b.jpg)
 
 ## 存在的问题
 1、当两张图片视角差异过大或出现较大选择时，会出现匹配错误。  
