@@ -7,6 +7,6 @@
 ![Image text](https://github.com/JunFenngZhi/ORB-image_stitching/blob/master/results/result1_b.jpg)
 
 ## 存在的问题
-1、当两张图片视角差异过大或出现较大选择时，会出现匹配错误。  
+1、当两张图片视角差异过大或出现较大旋转时，会出现匹配错误。  
 2、图像融合部分处理较粗糙，相邻图像拼接处容易产生分层。  
 3、ORB特征点检测和匹配速度和论文相比略有差距。
